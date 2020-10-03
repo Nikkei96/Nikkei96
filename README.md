@@ -8,13 +8,13 @@
   <img src='https://progress-bar.dev/70'>
   <code style='margin: 0 0 10px 0; display:block; width:50px'>js</code>
     <br>
-  <img src='https://progress-bar.dev/30'>
+  <img src='https://progress-bar.dev/40'>
   <code style='margin: 0 0 10px 0; display:block; width:50px'>Vue</code>
   <h2>my front stack:</h2>
-  <code>Vue + Vuex</code>
-  <code>Nuxt.js</code>
-  <code>Vuetify</code>
+  <code>vue/vuex</code>
+  <code>nuxt.js</code>
+  <code>vuetify</code>
 </div>
-<p align="right"><small><b> <code>upd. 24/09/2020</code></b></small></p>
+<p align="right"><small><b> <code>upd. 3/10/2020</code></b></small></p>
 
 
