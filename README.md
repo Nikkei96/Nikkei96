@@ -5,16 +5,24 @@
 </p>
 
 <div >
-  <img src='https://progress-bar.dev/70'>
+  <img src='https://progress-bar.dev/75'>
   <code style='margin: 0 0 10px 0; display:block; width:50px'>js</code>
-    <br>
-  <img src='https://progress-bar.dev/40'>
-  <code style='margin: 0 0 10px 0; display:block; width:50px'>Vue</code>
+  <br>
+  <img src='https://progress-bar.dev/10'>
+  <code style='margin: 0 0 10px 0; display:block; width:50px'>ts</code>
+  <br>
+  <img src='https://progress-bar.dev/10'>
+  <code style='margin: 0 0 10px 0; display:block; width:50px'>golang</code>
+  <br>
+  <img src='https://progress-bar.dev/60'>
+  <code style='margin: 0 0 10px 0; display:block; width:50px'>vue/vuex</code>
   <h2>my front stack:</h2>
   <code>vue/vuex</code>
   <code>nuxt.js</code>
   <code>vuetify</code>
+  <h2>my backend stack:</h2>
+  <code>rest</code>
 </div>
-<p align="right"><small><b> <code>upd. 3/10/2020</code></b></small></p>
+<p align="right"><small><b> <code>upd. 4/11/2020</code></b></small></p>
 
 
