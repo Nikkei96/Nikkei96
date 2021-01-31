@@ -1,28 +1,28 @@
-<h1 align="center">剣の道</h1>
+# My stack
+## Techonology
+- [x] JavaScript
+- [x] [Vue](https://vuejs.org/)
+- [x] [Vuex](https://vuex.vuejs.org/)
+- [x] [Vue Router](https://router.vuejs.org/)
+- [x] [Vue CLI](https://cli.vuejs.org/)
+- [x] [Nuxt.js](https://nuxtjs.org/)
 
-<p style='text-align: center'>
-  <img src='https://cs10.pikabu.ru/post_img/2018/02/28/7/1519814611116915020.jpg'></img>
-</p>
+## UI Frameworks
+- [x] [Vuetify](https://vuetifyjs.com/en/)
+- [x] [Bootstrap](https://getbootstrap.com/)
 
-<div >
-  <img src='https://progress-bar.dev/75'>
-  <code style='margin: 0 0 10px 0; display:block; width:50px'>js</code>
-  <br>
-  <img src='https://progress-bar.dev/10'>
-  <code style='margin: 0 0 10px 0; display:block; width:50px'>ts</code>
-  <br>
-  <img src='https://progress-bar.dev/10'>
-  <code style='margin: 0 0 10px 0; display:block; width:50px'>golang</code>
-  <br>
-  <img src='https://progress-bar.dev/60'>
-  <code style='margin: 0 0 10px 0; display:block; width:50px'>vue/vuex</code>
-  <h2>my front stack:</h2>
-  <code>vue/vuex</code>
-  <code>nuxt.js</code>
-  <code>vuetify</code>
-  <h2>my backend stack:</h2>
-  <code>rest</code>
-</div>
-<p align="right"><small><b> <code>upd. 4/11/2020</code></b></small></p>
+## Others libs
+- [x] [CASL Vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue)
+- [x] [Vuelidate](https://vuelidate.js.org/)
+- [x] [VueTheMask](https://github.com/vuejs-tips/vue-the-mask)
+- [x] [VueApexCharts](https://github.com/apexcharts/vue-apexcharts)
+- [x] [Animate.css](https://animate.style/)
 
+## Worked with
+- [x] REST API (Swagger)
+- [x] WebSocket
+- [x] [Firebase](https://firebase.google.com/?hl=en)
+- [x] [PostgreSQL](https://www.postgresql.org/) (HeidiSQL)
+- [x] Bash Linux
+- [x] [FileZilla](https://filezilla.ru/)
 
