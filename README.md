@@ -31,4 +31,4 @@
 
 ---
 ## Read books
-- [x] [Eloquent JavaScript](https://eloquentjavascript.net/) [20%](https://progress-bar.dev/20)
+- [x] [Eloquent JavaScript](https://eloquentjavascript.net/) ![20%](https://progress-bar.dev/20)
