@@ -29,3 +29,6 @@
 - [x] Bash Linux
 - [x] [FileZilla](https://filezilla.ru/)
 
+---
+## Read books
+- [x] [Eloquent JavaScript](https://eloquentjavascript.net/) [20%](https://progress-bar.dev/20)
